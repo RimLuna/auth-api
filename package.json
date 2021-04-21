@@ -1,0 +1,11 @@
+{
+  "name": "auth-api",
+  "version": "1.0.0",
+  "description": "authentication api using nodejs and jwt",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "RimaL",
+  "license": "ISC"
+}
